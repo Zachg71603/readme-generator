@@ -1,4 +1,4 @@
-# my-weather-dashboard
+# readme-generator
 
 This website will be able to track the weather in cities across the world.
 
